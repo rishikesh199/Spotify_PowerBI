@@ -2,6 +2,10 @@
 
 A dynamic, interactive Power BI dashboard built from a **Figma-led design** to analyze **Top 50 hit songs and their artists**. The solution consolidates KPIs, trends, and drill-downs so music analysts, playlist managers, and marketing teams can quickly see what’s performing and why.
 
+👉 **Click below to open Spotify Insights:**
+
+[![View Spotify Report](https://img.shields.io/badge/Power%20BI-View%20Spotify%20Dashboard-blue)](https://app.powerbi.com/view?r=eyJrIjoiOTA2OTA1YzAtOWEyYi00MDJjLWJlZWItNTI2OWNiZjM0YzE5IiwidCI6ImM2MDAxOTk3LWQ4MzEtNDY3Zi05NDZhLThhZWU1ZDc0NmQ1NCJ9)
+
 ---
 
 ## 🔹 Short Description / Purpose
